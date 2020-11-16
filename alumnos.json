@@ -2,9 +2,8 @@
   "alumnos": [
     {
       "id": 1,
-      "nombre": "pepe",
-      "edad": "25",
-      "imagen": "/img/xiaomiG.jpg"
+      "nombre": "Carlos",
+      "edad": "25"
     },
     {
       "id": 2,
@@ -17,9 +16,9 @@
       "edad": "2"
     },
     {
-      "nombre": "Raul",
-      "edad": "40",
-      "id": 5
+      "id": 5,
+      "nombre": "LUIS",
+      "edad": "30"
     }
   ],
   "comments": [
