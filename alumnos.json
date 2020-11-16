@@ -1,0 +1,35 @@
+{
+  "alumnos": [
+    {
+      "id": 1,
+      "nombre": "pepe",
+      "edad": "25",
+      "imagen": "/img/xiaomiG.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "pepa",
+      "edad": "15"
+    },
+    {
+      "id": 3,
+      "nombre": "pepito",
+      "edad": "2"
+    },
+    {
+      "nombre": "Raul",
+      "edad": "40",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
